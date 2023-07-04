@@ -1,0 +1,11 @@
+/* TEAM */
+
+Developer: Rayan Karim Checa 
+Site: https://rayancheca.github.io/FlappyBird/, https://github.com/rayancheca
+
+/* SITE */
+
+Last Update: 2014/03/06
+Standards: HTML5, CSS3
+Components: MelonJS, jQuery
+Software: VIM, Photoshop
